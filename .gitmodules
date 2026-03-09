@@ -1,0 +1,12 @@
+[submodule "RGBCube888_ESP8266Bridge"]
+	path = RGBCube888_ESP8266Bridge
+	url = https://github.com/call286/RGBCube888_ESP8266Bridge.git
+[submodule "RGBCube888_GUI"]
+	path = RGBCube888_GUI
+	url = https://github.com/call286/RGBCube888_GUI.git
+[submodule "RGBCube888_Hardware"]
+	path = RGBCube888_Hardware
+	url = https://github.com/call286/RGBCube888_Hardware.git
+[submodule "RGBCube888_STM32"]
+	path = RGBCube888_STM32
+	url = https://github.com/call286/RGBCube888_STM32.git
