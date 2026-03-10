@@ -3,6 +3,7 @@ name: Update Submodules
 on:
   schedule:
     - cron: '0 0 * * *' # Runs at midnight UTC
+  workflow_dispatch: # Manual
 
 permissions:
   contents: write
